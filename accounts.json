@@ -1,0 +1,162 @@
+[
+    {
+        "balance": 68870,
+        "name": {
+            "first": "Melissa",
+            "last": "Dancy"
+        },
+        "type": "savings"
+    },
+    {
+        "balance": 62511,
+        "name": {
+            "first": "Jenny",
+            "last": "Lenihan"
+        },
+        "type": "checking"
+    },
+    {
+        "balance": -6048,
+        "name": {
+            "first": "Lonna",
+            "last": "Grisham"
+        },
+        "type": "savings"
+    },
+    {
+        "balance": -1702,
+        "name": {
+            "first": "Stacia",
+            "last": "Monzon"
+        },
+        "type": "savings"
+    },
+    {
+        "balance": 77324,
+        "name": {
+            "first": "Gwen",
+            "last": "Hyre"
+        },
+        "type": "savings"
+    },
+    {
+        "balance": 11445,
+        "name": {
+            "first": "Lorri",
+            "last": "Ashburn"
+        },
+        "type": "savings"
+    },
+    {
+        "balance": 50088,
+        "name": {
+            "first": "Arie",
+            "last": "Dennett"
+        },
+        "type": "checking"
+    },
+    {
+        "balance": 98816,
+        "name": {
+            "first": "Gerard",
+            "last": "Marceau"
+        },
+        "type": "checking"
+    },
+    {
+        "balance": 61558,
+        "name": {
+            "first": "Hedy",
+            "last": "East"
+        },
+        "type": "savings"
+    },
+    {
+        "balance": 43434,
+        "name": {
+            "first": "Luana",
+            "last": "Ivy"
+        },
+        "type": "savings"
+    },
+    {
+        "balance": -9825,
+        "name": {
+            "first": "Pablo",
+            "last": "Fahy"
+        },
+        "type": "checking"
+    },
+    {
+        "balance": 84848,
+        "name": {
+            "first": "Loree",
+            "last": "Couvillion"
+        },
+        "type": "checking"
+    },
+    {
+        "balance": 38448,
+        "name": {
+            "first": "Fermin",
+            "last": "Ransom"
+        },
+        "type": "checking"
+    },
+    {
+        "balance": 6288,
+        "name": {
+            "first": "Melissa",
+            "last": "Dancy"
+        },
+        "type": "checking"
+    },
+    {
+        "balance": 73355,
+        "name": {
+            "first": "Fermin",
+            "last": "Ransom"
+        },
+        "type": "savings"
+    },
+    {
+        "balance": 58442,
+        "name": {
+            "first": "Arie",
+            "last": "Dennett"
+        },
+        "type": "checking"
+    },
+    {
+        "balance": 19355,
+        "name": {
+            "first": "Hedy",
+            "last": "East"
+        },
+        "type": "checking"
+    },
+    {
+        "balance": 17798,
+        "name": {
+            "first": "Tomiko",
+            "last": "Lamkin"
+        },
+        "type": "checking"
+    },
+    {
+        "balance": 90944,
+        "name": {
+            "first": "Rosanne",
+            "last": "Beadle"
+        },
+        "type": "savings"
+    },
+    {
+        "balance": 90886,
+        "name": {
+            "first": "Pablo",
+            "last": "Fahy"
+        },
+        "type": "savings"
+    }
+]
